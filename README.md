@@ -5,7 +5,7 @@ A collection of browser console scripts that inject a cheat menu into the **Flap
 ## 📋 How To Use
 
 1. Install [Flappy Bird Offline](https://chromewebstore.google.com/detail/flappy-bird-offline/pidkjcapccmhpdokcjnkngcflobhopdl) from the Chrome Web Store
-2. Open the extension and start a game
+2. Open the extension and go full screen mode and start a game
 3. Open Chrome DevTools (`F12` or `Right Click > Inspect`)
 4. Go to the **Console** tab
 5. Paste the script and hit **Enter**
